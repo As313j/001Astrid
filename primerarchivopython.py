@@ -4,7 +4,9 @@ pip install pygame numpy
 """
     The classic Tetris developed using PyGame.
     Copyright (C) 2018 Recursos Python - recursospython.com.
-"""
+"""zcñkjkñsfdfsdf
+s
+zcskfsfsñkfsñ
 from collections import OrderedDict
 import random
 from pygame import Rect
